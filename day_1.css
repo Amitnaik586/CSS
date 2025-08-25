@@ -1,0 +1,25 @@
+/* CSS Selectors */
+
+/* Universal Seletor */
+
+*p{
+      color: blue;
+}
+
+/* Element Selector */
+
+p{
+    color: black;
+}
+
+/* Class Selector */
+
+.class_name{
+    color: blue;
+}
+
+/* ID Selector */
+
+#ID_name{
+    color: purple;
+}
